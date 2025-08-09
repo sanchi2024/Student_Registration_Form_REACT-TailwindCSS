@@ -72,7 +72,7 @@ export default function StudentForm() {
     e.preventDefault();
 
     try {
-      const response = await fetch("/api/register", { // ✅ Updated path
+      const response = await fetch("/api/register", { 
         method: "POST",
         headers: {
           "Content-Type": "application/json",
