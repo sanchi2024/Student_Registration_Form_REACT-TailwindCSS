@@ -43,11 +43,18 @@ Vite Proxy for API calls
 📌Notes
 Ensure MongoDB is running locally or provide a cloud connection string in your .env file.
 Update vite.config.js in frontend to match your backend port if changed.
+User1 Personal Info
 <img width="1919" height="1011" alt="Screenshot 2025-08-09 092900" src="https://github.com/user-attachments/assets/2e7caba7-e140-42a4-8a00-ee803406cf85" />
+User1 Academic Info (Selection of Branch)
 <img width="1914" height="1006" alt="Screenshot 2025-08-09 092911" src="https://github.com/user-attachments/assets/6e7522e1-a24a-4bdb-aa8c-cff4678d6e76" />
+User1 Academic Info (Selected of Branch)
 <img width="1919" height="1010" alt="Screenshot 2025-08-09 092918" src="https://github.com/user-attachments/assets/dcc0dc9c-362f-4b1d-8f8e-6f28696cb90e" />
+User1 Complete Information Review Page
 <img width="1906" height="1014" alt="Screenshot 2025-08-09 092925" src="https://github.com/user-attachments/assets/f2fe4291-f30a-4fc8-bf1f-47b914ec0805" />
+Submission Succes Message
 <img width="1919" height="1012" alt="Screenshot 2025-08-09 092931" src="https://github.com/user-attachments/assets/341469a3-7cf7-4fe3-b954-98914b88feed" />
+Display of User1 information in MongoDb Database
+<img width="1583" height="515" alt="Screenshot 2025-08-09 105426" src="https://github.com/user-attachments/assets/02bbb905-cfac-4e46-87e1-aff3b40c6291" />
 
 
 
