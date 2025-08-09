@@ -1,5 +1,3 @@
-import Student from "../models/Student.js";
-
 export const registerStudent = async (req, res) => {
   try {
     const student = new Student(req.body);
