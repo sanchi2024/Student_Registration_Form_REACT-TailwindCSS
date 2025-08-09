@@ -12,7 +12,8 @@ export default function StudentForm() {
   const [success, setSuccess] = useState("");
 
   const branches = ["CS", "IT", "E&TC", "Mechanical"];
-
+  
+  {/*Age Calculation/*}
   const calculateAge = (dob) => {
     const birthDate = new Date(dob);
     const today = new Date();
@@ -37,6 +38,7 @@ export default function StudentForm() {
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
+{/*Validation Function/*}
   const validateStep = () => {
     if (step === 1) {
       const nameRegex = /^[A-Za-z\s]+$/;
